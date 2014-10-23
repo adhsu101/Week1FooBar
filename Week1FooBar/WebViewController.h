@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  WebViewController.h
 //  Week1FooBar
 //
 //  Created by Mobile Making on 10/23/14.
@@ -8,8 +8,5 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
-
+@interface WebViewController : UIViewController
 @end
-
